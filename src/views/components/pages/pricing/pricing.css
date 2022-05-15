@@ -1,0 +1,25 @@
+.price {
+  font-size: 40px;
+  color: rgb(115, 103, 240);
+  font-weight: 600;
+}
+
+.currency {
+  color: rgb(115, 103, 240);
+  font-size: 20px;
+}
+
+.pricing-cards {
+  margin: 0 100px;
+}
+
+.free-trial {
+  background-color: #7152fa;
+  padding: 20px;
+}
+
+@media only screen and (min-width: 990px) {
+  .free-trial {
+      padding: 20px 100px;
+    }
+}
