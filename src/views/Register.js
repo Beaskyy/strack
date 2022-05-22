@@ -44,7 +44,7 @@ const Register = () => {
       toast.error('password do not match')
     } else {
       console.log(details)
-      toast.success("Login successful")
+      toast.success("Account created successfully")
     }
   }
 
